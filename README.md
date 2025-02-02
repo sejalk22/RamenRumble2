@@ -1,4 +1,4 @@
 # RamenRumble
-Noodle Battle game
+## A truly spectacular puzzle game
 
-Download the files, run, & enjoy! 
+### Download the files, run, & enjoy! 
